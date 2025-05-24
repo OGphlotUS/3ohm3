@@ -1,4 +1,6 @@
 ---
 title: 3ohm3
+date: 2025-5-24
 ---
+![3om3ohm3home3-image!](3ohm3_univ.drawio.svg)
 
