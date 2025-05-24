@@ -1,5 +1,5 @@
 ---
-title: three-ohm-three
+title: "three-ohm-three"
 date: 2025-05-24
 ---
 # THR33 ohm THREE
