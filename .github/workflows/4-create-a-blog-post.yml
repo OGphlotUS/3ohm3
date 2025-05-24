@@ -65,3 +65,11 @@ jobs:
           from_step: 4
           to_step: 5
           branch_name: my-pages
+
+          steps:
+  - name: Set required environment variables
+    run: |
+      echo "FROM_STEP=4" >> $GITHUB_ENV
+      echo "TO_STEP=5" >> $GITHUB_ENV
+    env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
