@@ -5,8 +5,8 @@
 
 ### 3om3
 
-  [link](https://3om3.univer.se/))
-<a href="(https://3om3.univer.se/)">link</a>
+  [link](https://3om3.univer.se/)
+<a href="(https://3om3.univer.se/)">3om3</a>
 
 ## 3hom3
 
